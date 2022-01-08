@@ -1,0 +1,15 @@
+.list {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    list-style: none;
+    padding: 30px 0;
+}
+.list li a {
+    color: #191919;
+    font-weight: bold;
+    text-decoration: none;
+}
+.active {
+    background-color: red;
+}
